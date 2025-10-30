@@ -21,6 +21,7 @@
 | 💼 **Integrations & SDKs** | [qualityclouds](https://github.com/qualityclouds/qualityclouds) |
 | 📚 **Docs & Support** | [qualityclouds.com](https://qualityclouds.com) · help@qualityclouds.com |
 
+
 ---
 
 ### 💡 What We Do
@@ -32,6 +33,7 @@ Quality Clouds provides automated code quality and technical debt insights for e
 - 🛡 **Improved system reliability and compliance** — through continuous governance and platform-specific best practices
 
 We empower developers, architects, and DevOps teams to ship cleaner, safer, and more maintainable code across multiple SaaS platforms.
+
 
 ---
 

@@ -47,6 +47,24 @@ We’re open to collaboration and feedback from developers and partners.
 - 🤝 View our [Code of Conduct](https://github.com/qualityclouds/.github/blob/main/CODE_OF_CONDUCT.md)
 - 📖 Learn how to [Contribute](https://github.com/qualityclouds/.github/blob/main/CONTRIBUTING.md)
 
+
+---
+
+### ✨ About Quality Clouds
+
+Quality Clouds is the governance layer for enterprise SaaS platforms — helping organizations build, deploy, and maintain applications with confidence.
+
+We empower global teams to:
+- 🧭 **Gain full visibility** into the quality, compliance, and technical debt of their cloud platforms.  
+- ⚙️ **Automate governance** through integrations with GitHub, ServiceNow, Salesforce, and Microsoft Dynamics 365.  
+- 📈 **Improve productivity and reliability** by catching issues before they reach production.  
+
+With a focus on **scalability**, **security**, and **continuous improvement**, Quality Clouds supports developers, architects, and enterprise leaders in aligning code quality with business outcomes.
+
+> “We make quality visible, measurable, and actionable — so every release is faster, safer, and smarter.”
+
+Learn more at [qualityclouds.com](https://www.qualityclouds.com) or follow us on [LinkedIn](https://www.linkedin.com/company/qualityclouds) and [Twitter](https://twitter.com/qualityclouds).
+
 ---
 
 

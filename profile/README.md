@@ -18,6 +18,7 @@
 | 🧩 **Application scan for ServiceNow (Build Check Action)** | [action-application-scan](https://github.com/qualityclouds/action-application-scan) |
 | ⚙️ **Starter GitHub Actions workflows** | [starter-workflows](https://github.com/qualityclouds/starter-workflows) |
 | ☸️ **Helm charts (Bitnami base library)** | [charts](https://github.com/qualityclouds/charts) |
+| 💼 **Integrations & SDKs** | [qualityclouds](https://github.com/qualityclouds/qualityclouds) |
 | 📚 **Docs & Support** | [qualityclouds.com](https://qualityclouds.com) · info@qualityclouds.com |
 
 ---

@@ -63,7 +63,7 @@ With a focus on **scalability**, **security**, and **continuous improvement**, Q
 
 > “We make quality visible, measurable, and actionable — so every release is faster, safer, and smarter.”
 
-Learn more at [qualityclouds.com](https://www.qualityclouds.com) or follow us on [LinkedIn](https://www.linkedin.com/company/qualityclouds) and [Twitter](https://twitter.com/qualityclouds).
+
 
 ---
 

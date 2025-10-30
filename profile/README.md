@@ -2,7 +2,7 @@
   <img src="./banner.png" alt="Quality Clouds Banner" width="100%">
 </p>
 
-<h3 align="center">Welcome to Quality Clouds</h3>
+<h3 align="center">Welcome to Quality Clouds on GitHub</h3>
 <p align="center">
   <b>Code Quality & Technical Debt Insights for Enterprise SaaS</b><br/>
   <sub>ServiceNow · Salesforce · Microsoft Dynamics 365 · Adobe</sub>

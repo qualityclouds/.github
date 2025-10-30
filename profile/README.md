@@ -14,12 +14,12 @@
 
 | Task | Description |
 |------|--------------|
-| 🧪 **Full CI scan for Salesforce (Build Check Action)** | [action-full-scan](https://github.com/qualityclouds/action-full-scan) |
-| 🧩 **Application scan for ServiceNow (Build Check Action)** | [action-application-scan](https://github.com/qualityclouds/action-application-scan) |
-| ⚙️ **Starter GitHub Actions workflows** | [starter-workflows](https://github.com/qualityclouds/starter-workflows) |
-| ☸️ **Helm charts (Bitnami base library)** | [charts](https://github.com/qualityclouds/charts) |
-| 💼 **Integrations & SDKs** | [qualityclouds](https://github.com/qualityclouds/qualityclouds) |
-| 📚 **Docs & Support** | [qualityclouds.com](https://qualityclouds.com) · help@qualityclouds.com |
+|  **Full CI scan for Salesforce (Build Check Action)** | [action-full-scan](https://github.com/qualityclouds/action-full-scan) |
+|  **Application scan for ServiceNow (Build Check Action)** | [action-application-scan](https://github.com/qualityclouds/action-application-scan) |
+|  **Starter GitHub Actions workflows** | [starter-workflows](https://github.com/qualityclouds/starter-workflows) |
+|  **Helm charts (Bitnami base library)** | [charts](https://github.com/qualityclouds/charts) |
+|  **Integrations & SDKs** | [qualityclouds](https://github.com/qualityclouds/qualityclouds) |
+|  **Docs & Support** | [qualityclouds.com](https://qualityclouds.com) · help@qualityclouds.com |
 
 
 ---
@@ -55,9 +55,9 @@ We’re open to collaboration and feedback from developers and partners.
 Quality Clouds is the governance layer for enterprise SaaS platforms — helping organizations build, deploy, and maintain applications with confidence.
 
 We empower global teams to:
-- 🧭 **Gain full visibility** into the quality, compliance, and technical debt of their cloud platforms.  
-- ⚙️ **Automate governance** through integrations with GitHub, ServiceNow, Salesforce, and Microsoft Dynamics 365.  
-- 📈 **Improve productivity and reliability** by catching issues before they reach production.  
+-  **Gain full visibility** into the quality, compliance, and technical debt of their cloud platforms.  
+-  **Automate governance** through integrations with GitHub, ServiceNow, Salesforce, and Microsoft Dynamics 365.  
+-  **Improve productivity and reliability** by catching issues before they reach production.  
 
 With a focus on **scalability**, **security**, and **continuous improvement**, Quality Clouds supports developers, architects, and enterprise leaders in aligning code quality with business outcomes.
 

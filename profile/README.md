@@ -2,7 +2,7 @@
   <img src="./banner.png" alt="Quality Clouds Banner" width="100%">
 </p>
 
-<h2 align="center">🌤️ Quality Clouds on GitHub</h2>
+<h3 align="center">Welcome to Quality Clouds</h3>
 <p align="center">
   <b>Code Quality & Technical Debt Insights for Enterprise SaaS</b><br/>
   <sub>ServiceNow · Salesforce · Microsoft Dynamics 365 · Adobe</sub>
@@ -34,12 +34,15 @@ We’re open to collaboration and feedback from developers and partners.
 
 ---
 
-### 🧠 About Quality Clouds
+### 🌍 Our Impact
 
-We provide **automated code quality and technical debt insights** for enterprise cloud platforms — enabling:
-- Faster development cycles  
-- Reduced incidents and technical debt  
-- Increased maintainability and compliance  
+Quality Clouds provides **automated code quality** and **technical debt insights** for enterprise cloud platforms — empowering teams to build faster and safer.
+
+By embedding Quality Clouds into your development lifecycle, you can achieve:
+
+- ⚡ **Faster development cycles** — with automated livechecks and clear quality gates.  
+- 🛡️ **Reduced incidents and technical debt** — by detecting issues before they reach production.  
+- 🧩 **Improved system reliability and compliance** — through continuous governance and platform-specific best practices.
 
 > “SaaS by Nature, Quality by Design.”
 

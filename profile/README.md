@@ -19,7 +19,19 @@
 | ⚙️ **Starter GitHub Actions workflows** | [starter-workflows](https://github.com/qualityclouds/starter-workflows) |
 | ☸️ **Helm charts (Bitnami base library)** | [charts](https://github.com/qualityclouds/charts) |
 | 💼 **Integrations & SDKs** | [qualityclouds](https://github.com/qualityclouds/qualityclouds) |
-| 📚 **Docs & Support** | [qualityclouds.com](https://qualityclouds.com) · info@qualityclouds.com |
+| 📚 **Docs & Support** | [qualityclouds.com](https://qualityclouds.com) · help@qualityclouds.com |
+
+---
+
+### 💡 What We Do
+
+Quality Clouds provides automated code quality and technical debt insights for enterprise cloud platforms — enabling:
+
+- ⚡ **Faster development cycles** — with automated livechecks and clear quality gates.  
+- 🧩 **Reduced incidents and technical debt** — by detecting issues before they reach production. 
+- 🛡 **Improved system reliability and compliance** — through continuous governance and platform-specific best practices
+
+We empower developers, architects, and DevOps teams to ship cleaner, safer, and more maintainable code across multiple SaaS platforms.
 
 ---
 
@@ -35,19 +47,6 @@ We’re open to collaboration and feedback from developers and partners.
 
 ---
 
-### 🌍 Our Impact
-
-Quality Clouds provides **automated code quality** and **technical debt insights** for enterprise cloud platforms — empowering teams to build faster and safer.
-
-By embedding Quality Clouds into your development lifecycle, you can achieve:
-
-- ⚡ **Faster development cycles** — with automated livechecks and clear quality gates.  
-- 🛡️ **Reduced incidents and technical debt** — by detecting issues before they reach production.  
-- 🧩 **Improved system reliability and compliance** — through continuous governance and platform-specific best practices.
-
-> “SaaS by Nature, Quality by Design.”
-
----
 
 <p align="center">
   <sub>© Quality Clouds — Built with 💚 for developers and enterprises worldwide.</sub><br/>

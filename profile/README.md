@@ -4,7 +4,7 @@
 
 <h3 align="center">Welcome to Quality Clouds on GitHub</h3>
 <p align="center">
-  <b>Code Quality & Technical Debt Insights for Enterprise SaaS</b><br/>
+  <b>Governing software logic — whether written by humans or AI — ensuring every change is safe, compliant, and enterprise-ready from the start</b><br/>
   <sub>ServiceNow · Salesforce · Microsoft Dynamics 365 · Adobe</sub>
 </p>
 

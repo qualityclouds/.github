@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/qualityclouds/.github/main/profile/banner.png" alt="Quality Clouds Banner" width="100%">
+  <img src="./banner.png" alt="Quality Clouds Banner" width="100%">
 </p>
 
 <h3 align="center">Welcome to Quality Clouds on GitHub</h3>

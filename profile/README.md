@@ -7,13 +7,13 @@
     <img src="https://img.shields.io/github/followers/qualityclouds?style=social" alt="GitHub followers">
   </a>
   <a href="https://github.com/qualityclouds">
-    <img src="https://img.shields.io/github/stars/qualityclouds?style=social" alt="GitHub stars">
+    <img src="https://img.shields.io/github/stars/qualityclouds?color=yellow&style=flat" alt="GitHub stars">
   </a>
   <a href="https://github.com/qualityclouds/qualityclouds">
     <img src="https://img.shields.io/github/forks/qualityclouds/qualityclouds?style=social" alt="GitHub forks">
   </a>
   <a href="https://qualityclouds.com">
-    <img src="https://img.shields.io/badge/repos-3-blue" alt="Repositories">
+    <img src="https://img.shields.io/badge/repos-6-blue" alt="Repositories">
   </a>
 </p>
 

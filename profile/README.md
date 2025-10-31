@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/github/stars/qualityclouds?color=yellow&style=flat" alt="GitHub stars">
   </a>
   <a href="https://github.com/qualityclouds/qualityclouds">
-    <img src="https://img.shields.io/github/forks/qualityclouds/qualityclouds?style=social" alt="GitHub forks">
+    <img src="https://img.shields.io/github/forks/qualityclouds/action-full-scan?style=social" alt="GitHub forks">
   </a>
   <a href="https://qualityclouds.com">
     <img src="https://img.shields.io/badge/repos-6-blue" alt="Repositories">

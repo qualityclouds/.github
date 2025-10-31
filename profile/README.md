@@ -77,7 +77,7 @@ With a focus on **scalability**, **security**, and **continuous improvement**, Q
 > “We make quality visible, measurable, and actionable — so every release is faster, safer, and smarter.”
 
 ---
-🤝 [Meet our contributors](https://github.com/qualityclouds/.github/blob/main/contributors)
+🤝 [Meet our contributors](https://github.com/qualityclouds/.github/blob/main/contributors.md)
 
 
 <p align="center">

@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://id.qualityclouds.com/signup">
-    <img src="https://img.shields.io/badge/LivecheckAI%20(via%20MCP)-Try%20it%20here!-32d0c5?style=flat-square&labelColor=1a1a1a" alt="LivecheckAI via MCP – Try it here!">
+    <img src="https://img.shields.io/badge/LivecheckAI%20(via%20MCP)%20%E2%80%94%20Try%20it%20here!-32d0c5?style=flat&labelColor=32d0c5&color=32d0c5" />
   </a>
 </p>
 

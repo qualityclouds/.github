@@ -1,9 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="360" height="44">
   <rect x="0.5" y="0.5" rx="6" ry="6" width="359" height="43"
-        fill="#e0e0e0" stroke="#9e9e9e" stroke-width="1" />
+        fill="#e0e0e0" stroke="#7a7a7a" stroke-width="1" />
   <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
         font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
-        font-size="15" font-weight="600" fill="#000000">
-    LivecheckAI (via MCP) — Try it here!
-  </text>
-</svg>
+        font-size="15" font-weight="600" fill="#

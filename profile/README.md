@@ -26,8 +26,8 @@
 <table align="center">
   <tr>
     <td align="center" style="
-      background-color: #f2f2f2;
-      border: 1px solid #bfbfbf;
+      background-color: #e6e6e6;
+      border: 1px solid #c9c9c9;
       padding: 10px 22px;
       border-radius: 6px;
     ">

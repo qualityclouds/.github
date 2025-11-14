@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://id.qualityclouds.com/signup">
-    <img src="livecheckai-button.svg" alt="LivecheckAI (via MCP) — Try it here!" />
+    <img src="../livecheckai-button.svg" alt="LivecheckAI (via MCP) — Try it here!" />
   </a>
 </p>
 

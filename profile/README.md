@@ -23,28 +23,25 @@
   <b>Governing software logic — whether written by humans or AI — ensuring every change is safe, compliant, and enterprise-ready from the start</b>
 </p>
 
-<p align="center">
-<table>
+<table align="center">
   <tr>
-    <td style="
+    <td align="center" style="
       background-color: #f2f2f2;
       border: 1px solid #bfbfbf;
-      padding: 10px 20px;
+      padding: 10px 22px;
       border-radius: 6px;
-      text-align: center;
     ">
-      <a href="https://is.qualityclouds.com/signup" style="
+      <a href="https://id.qualityclouds.com/signup" style="
+        color: #000;
         text-decoration: none;
         font-size: 16px;
         font-weight: 600;
-        color: #000000;
       ">
         LivecheckAI (via MCP) — Try it here!
       </a>
     </td>
   </tr>
 </table>
-</p>
 
 <p align="center">
   ServiceNow · Salesforce · Microsoft Dynamics 365 · Adobe

@@ -24,21 +24,26 @@
 </p>
 
 <p align="center">
-  <a href="https://id.qualityclouds.com/signup">
-    <span style="
-      display: inline-block;
-      padding: 10px 22px;
-      font-size: 16px;
-      font-weight: 600;
-      color: #000;
+<table>
+  <tr>
+    <td style="
       background-color: #f2f2f2;
       border: 1px solid #bfbfbf;
+      padding: 10px 20px;
       border-radius: 6px;
-      text-decoration: none;
+      text-align: center;
     ">
-      LivecheckAI (via MCP) — Try it here!
-    </span>
-  </a>
+      <a href="https://is.qualityclouds.com/signup" style="
+        text-decoration: none;
+        font-size: 16px;
+        font-weight: 600;
+        color: #000000;
+      ">
+        LivecheckAI (via MCP) — Try it here!
+      </a>
+    </td>
+  </tr>
+</table>
 </p>
 
 <p align="center">

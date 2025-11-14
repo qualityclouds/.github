@@ -27,12 +27,12 @@
   <a href="https://id.qualityclouds.com/signup">
     <span style="
       display: inline-block;
-      padding: 6px 14px;
+      padding: 8px 18px;
       font-size: 14px;
       font-weight: 600;
-      color: #000;
+      color: #000000;
       background-color: #e6e6e6;
-      border: 1px solid #cccccc;
+      border: 1px solid #c9c9c9;
       border-radius: 6px;
       text-decoration: none;
     ">

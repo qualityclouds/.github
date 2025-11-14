@@ -25,20 +25,12 @@
 
 <p align="center">
   <a href="https://id.qualityclouds.com/signup">
-    <span style="
-      display: inline-block;
-      padding: 8px 18px;
-      font-size: 14px;
-      font-weight: 600;
-      color: #000000;
-      background-color: #e6e6e6;
-      border: 1px solid #c9c9c9;
-      border-radius: 6px;
-      text-decoration: none;
-    ">
-      LivecheckAI (via MCP) — Try it here!
-    </span>
+    <img 
+      src="https://img.shields.io/badge/LivecheckAI%20(via%20MCP)%20—%20Try%20it%20here!-f2f2f2?style=flat-square&labelColor=bfbfbf&color=f2f2f2&logoWidth=55" 
+      alt="LivecheckAI (via MCP) — Try it here!"
+    />
   </a>
+</p>
 </p>
 
 <p align="center">

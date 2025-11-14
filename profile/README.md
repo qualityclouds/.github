@@ -18,14 +18,19 @@
 </p>
 
 <h3 align="center">Welcome to Quality Clouds on GitHub</h3>
+
 <p align="center">
-  <b>Governing software logic — whether written by humans or AI — ensuring every change is safe, compliant, and enterprise-ready from the start</b><br/>
-  <p align="center">
-  <a href="https://YOUR-LIVECHECK-AI-URL">
-    <img src="https://img.shields.io/badge/LivecheckAI%20(via%20MCP)-Try%20it%20here!-2b2b2b?style=flat&logo=github" alt="LivecheckAI via MCP – Try it here!">
+  <b>Governing software logic — whether written by humans or AI — ensuring every change is safe, compliant, and enterprise-ready from the start</b>
+</p>
+
+<p align="center">
+  <a href="https://id.qualityclouds.com/signup">
+    <img src="https://img.shields.io/badge/LivecheckAI%20(via%20MCP)-Try%20it%20here!-32d0c5?style=flat-square&labelColor=1a1a1a" alt="LivecheckAI via MCP – Try it here!">
   </a>
 </p>
-  <sub>ServiceNow · Salesforce · Microsoft Dynamics 365 · Adobe</sub>
+
+<p align="center">
+  ServiceNow · Salesforce · Microsoft Dynamics 365 · Adobe
 </p>
 
 ---

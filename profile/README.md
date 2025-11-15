@@ -57,12 +57,11 @@ Quality Clouds provides automated code quality and technical debt insights for e
 
 We empower developers, architects, and DevOps teams to ship cleaner, safer, and more maintainable code across multiple SaaS platforms.
 
-<p align="center">
-  <a href="https://youtu.be/nyhEw1g90e0" target="_blank">
-    <img src="./livecheckai-demo-card.svg" alt="LivecheckAI Demo Video" width="520">
-  </a>
-</p>
-
+<div align="center">
+<a href="https://youtu.be/nyhEw1g90e0">
+  <img src="./livecheckai-demo-card.svg" width="520" alt="LivecheckAI Demo Video"/>
+</a>
+</div>
 ---
 
 ### 💬 Community & Help

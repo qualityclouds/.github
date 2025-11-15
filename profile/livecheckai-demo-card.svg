@@ -2,15 +2,13 @@
   <!-- Background -->
   <rect x="1" y="1" width="518" height="118" rx="14" fill="#FFFFFF" stroke="#C7C7C7" stroke-width="2"/>
 
-  <!-- Icon -->
-  <text x="24" y="70"
-        font-family="Arial, Helvetica, sans-serif"
-        font-size="34">
-    ▶️
-  </text>
+  <!-- Play Icon -->
+  <rect x="40" y="40" width="40" height="40" rx="6" fill="#0080FF" stroke="#000" stroke-width="2"/>
+  <polygon points="58,55 58,65 68,60" fill="white"/>
 
-  <!-- Title -->
-  <text x="70" y="55"
+  <!-- Centered Title (shifted right) -->
+  <text x="300" y="62"
+        text-anchor="middle"
         font-family="Arial, Helvetica, sans-serif"
         font-size="17"
         font-weight="bold"
@@ -18,8 +16,9 @@
     Watch how AI-assisted code validation works
   </text>
 
-  <!-- Subtitle -->
-  <text x="70" y="85"
+  <!-- Centered Subtitle (shifted right) -->
+  <text x="300" y="85"
+        text-anchor="middle"
         font-family="Arial, Helvetica, sans-serif"
         font-size="14"
         fill="#1666FF">

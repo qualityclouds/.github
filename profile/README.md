@@ -39,7 +39,7 @@
 
 | Task | Description |
 |------|-------------|
-| **LivecheckAI (via MCP) for Salesforce** | [livecheckai-mcp](ttps://github.com/qualityclouds/livecheckai-mcp-salesforce) |
+| **LivecheckAI (via MCP) for Salesforce** | [livecheckai-mcp-salesforce](https://github.com/qualityclouds/livecheckai-mcp-salesforce) |
 | **Full CI scan for Salesforce (Build Check Action)** | [action-full-scan](https://github.com/qualityclouds/action-full-scan) |
 | **Application scan for ServiceNow (Build Check Action)** | [action-application-scan](https://github.com/qualityclouds/action-application-scan) |
 | **Integrations & SDKs** | [qualityclouds](https://github.com/qualityclouds/qualityclouds) |

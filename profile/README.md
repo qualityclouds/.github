@@ -38,12 +38,12 @@
 ### 🚀 Quick Start
 
 | Task | Description |
-|------|--------------|
-|  **Full CI scan for Salesforce (Build Check Action)** | [action-full-scan](https://github.com/qualityclouds/action-full-scan) |
-|  **Application scan for ServiceNow (Build Check Action)** | [action-application-scan](https://github.com/qualityclouds/action-application-scan) |
-|  **Integrations & SDKs** | [qualityclouds](https://github.com/qualityclouds/qualityclouds) |
-|  **Docs & Support** | [qualityclouds.com](https://qualityclouds.com) · help@qualityclouds.com |
-
+|------|-------------|
+| **LivecheckAI (via MCP)** | [livecheckai-mcp](https://github.com/qualityclouds/livecheckai-mcp) |
+| **Full CI scan for Salesforce (Build Check Action)** | [action-full-scan](https://github.com/qualityclouds/action-full-scan) |
+| **Application scan for ServiceNow (Build Check Action)** | [action-application-scan](https://github.com/qualityclouds/action-application-scan) |
+| **Integrations & SDKs** | [qualityclouds](https://github.com/qualityclouds/qualityclouds) |
+| **Docs & Support** | [qualityclouds.com](https://qualityclouds.com) · help@qualityclouds.com |
 
 ---
 

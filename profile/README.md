@@ -62,6 +62,7 @@ We empower developers, architects, and DevOps teams to ship cleaner, safer, and 
   <img src="./livecheckai-demo-card.svg" width="520" alt="LivecheckAI Demo Video"/>
 </a>
 </div>
+
 ---
 
 ### 💬 Community & Help

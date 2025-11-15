@@ -1,6 +1,28 @@
-<p align="center">
-  <a href="https://youtu.be/nyhEw1g90e0" target="_blank">
-    <img src="./profile/livecheckai-demo-card.svg" 
-         alt="LivecheckAI Demo Video" width="520">
-  </a>
-</p>
+<svg width="520" height="120" viewBox="0 0 520 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect x="1" y="1" width="518" height="118" rx="14" fill="#FFFFFF" stroke="#C7C7C7" stroke-width="2"/>
+
+  <!-- Icon -->
+  <text x="24" y="70"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="34">
+    ▶️
+  </text>
+
+  <!-- Title -->
+  <text x="70" y="55"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="17"
+        font-weight="bold"
+        fill="#222">
+    Watch how AI-assisted code validation works
+  </text>
+
+  <!-- Subtitle -->
+  <text x="70" y="85"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="14"
+        fill="#1666FF">
+    LivecheckAI Demo Video
+  </text>
+</svg>

@@ -57,7 +57,6 @@ Quality Clouds provides automated code quality and technical debt insights for e
 
 We empower developers, architects, and DevOps teams to ship cleaner, safer, and more maintainable code across multiple SaaS platforms.
 
-
 ---
 
 ### 💬 Community & Help

@@ -3,6 +3,12 @@
 </p>
 
 <p align="center">
+    <a href="https://docs.qualityclouds.com">
+    <img src="https://img.shields.io/badge/Docs-Quality%20Clouds-blue?style=flat&logo=readme" />
+  </a>
+  <a href="https://qualityclouds.com">
+    <img src="https://img.shields.io/badge/Website-qualityclouds.com-0aa0ff?style=flat&logo=google-chrome" />
+  </a>
   <a href="https://github.com/qualityclouds?tab=followers">
     <img src="https://img.shields.io/github/followers/qualityclouds?style=social" alt="GitHub followers">
   </a>
@@ -15,6 +21,7 @@
   <a href="https://qualityclouds.com">
     <img src="https://img.shields.io/badge/repos-6-blue" alt="Repositories">
   </a>
+    <img src="https://img.shields.io/badge/ISO%2FIEC%2027001-Certified-0073b1?style=flat&logo=security" />
 </p>
 
 <h3 align="center">Welcome to Quality Clouds on GitHub</h3>

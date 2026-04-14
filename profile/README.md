@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://id.qualityclouds.com/sign-up">
-    <img src="../livecheckai-button-light.svg" alt="LivecheckAI (via MCP) for Salesforce — Try it here!" />
+    <img src="../livecheckai-button-light.svg" alt="LivecheckAI (via MCP) for Salesforce — Try it for Free!" />
   </a>
 </p>
 

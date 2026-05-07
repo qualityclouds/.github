@@ -57,11 +57,12 @@
 
 ### 💡 What We Do
 
-Quality Clouds provides automated code quality and technical debt insights for enterprise cloud platforms — enabling:
+Quality Clouds is the AI Code Governance layer for enterprise platforms. We turn governance, security, and quality requirements into machine-readable rules — applied in real time, in the IDE, the CI pipeline, and across full instance audits
 
-- ⚡ **Faster development cycles** — with automated livechecks and clear quality gates.  
-- 🧩 **Reduced incidents and technical debt** — by detecting issues before they reach production. 
-- 🛡 **Improved system reliability and compliance** — through continuous governance and platform-specific best practices
+- ⚡ Real-time guardrails in the IDE — LivecheckAI validates code as senior engineers and architects (or AI agents) write it.
+- 🛡 Quality Gates in CI — block non-compliant or risky changes from reaching production.
+- 🧩 Full Scan instance audits — complete visibility into technical debt, security, and configuration risk across every governed instance.
+- 🤖 AI Rule Builder — turn enterprise standards into enforceable rules in plain language — without writing code.
 
 We empower developers, architects, and DevOps teams to ship cleaner, safer, and more maintainable code across multiple SaaS platforms.
 
@@ -92,7 +93,7 @@ Quality Clouds is the governance layer for enterprise SaaS platforms — helping
 
 We empower global teams to:
 -  **Gain full visibility** into the quality, compliance, and technical debt of their cloud platforms.  
--  **Automate governance** through integrations with GitHub, ServiceNow, Salesforce, and Microsoft Dynamics 365.  
+-  **Automate governance** through integrations with GitHub, ServiceNow, Salesforce, Microsoft Dynamics 365, Cursor, Lovable, Replit, and Claude Code.  
 -  **Improve productivity and reliability** by catching issues before they reach production.  
 
 With a focus on **scalability**, **security**, and **continuous improvement**, Quality Clouds supports developers, architects, and enterprise leaders in aligning code quality with business outcomes.
@@ -105,7 +106,7 @@ With a focus on **scalability**, **security**, and **continuous improvement**, Q
 
 <p align="center">
   <sub>© Quality Clouds — Built with 💚 for developers and enterprises worldwide.</sub><br/>
-  <a href="https://qualityclouds.com">🌐 Website</a> • 
+  <a href="https://qualityclouds.ai">🌐 Website</a> • 
   <a href="https://www.linkedin.com/company/qualityclouds/">LinkedIn</a> • 
-  <a href="https://twitter.com/qualityclouds">Twitter</a>
+  <a href="https://twitter.com/qualityclouds">X</a>
 </p>

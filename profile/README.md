@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Docs-Quality%20Clouds-blue?style=flat&logo=readme" />
   </a>
   <a href="https://qualityclouds.com">
-    <img src="https://img.shields.io/badge/Website-qualityclouds.com-0aa0ff?style=flat&logo=google-chrome" />
+    <img src="https://img.shields.io/badge/Website-qualityclouds.ai-0aa0ff?style=flat&logo=google-chrome" />
   </a>
   <a href="https://github.com/qualityclouds?tab=followers">
     <img src="https://img.shields.io/github/followers/qualityclouds?style=social" alt="GitHub followers">
@@ -27,7 +27,7 @@
 <h3 align="center">Welcome to Quality Clouds on GitHub</h3>
 
 <p align="center">
-  <b>Governing software logic — whether written by humans or AI — ensuring every change is safe, compliant, and enterprise-ready from the start</b>
+  <b>AI Code Governance for enterprise platforms — ensuring every change, whether written by humans or AI, is safe, compliant, and production-ready</b>
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  ServiceNow · Salesforce · Microsoft Dynamics 365 · Adobe
+  ServiceNow · Salesforce · Microsoft Dynamics 365 · Adobe · Cursor · Lovable · Replit · Claude Code
 </p>
 
 ---

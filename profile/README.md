@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Quality Clouds Banner" width="100%">
+  <img src="./banner_1.png" alt="Quality Clouds Banner" width="100%">
 </p>
 
 <p align="center">

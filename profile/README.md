@@ -48,8 +48,7 @@
 |------|-------------|
 | **LivecheckAI (via MCP) for Salesforce** | [livecheckai-mcp-salesforce](https://github.com/qualityclouds/livecheckai-mcp-salesforce) |
 | **LivecheckAI (via MCP) for ServiceNow** | 🚀 _Coming soon - stay tuned!_ |
-| **Full CI scan for Salesforce (Build Check Action)** | [action-full-scan](https://github.com/qualityclouds/action-full-scan) |
-| **Application scan for ServiceNow (Build Check Action)** | [action-application-scan](https://github.com/qualityclouds/action-application-scan) |
+| **Full CI scan for Salesforce & ServiceNow (Build Check Action)** | [action-full-scan](https://github.com/qualityclouds/action-full-scan) |
 | **Integrations & SDKs** | [qualityclouds](https://github.com/qualityclouds/qualityclouds) |
 | **Docs & Support** | [qualityclouds.com](https://qualityclouds.com) · help@qualityclouds.com |
 

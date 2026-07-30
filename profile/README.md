@@ -1,4 +1,4 @@
-![Quality Clouds](profile/banner_1.png)
+![Quality Clouds](profile/Github listing banner.png)
 
 **AI Code Governance.** Every change, whether a person or a model wrote it, checked against your organization's rules before it reaches production.
 

@@ -6,12 +6,18 @@
 
 The split is where your code lives, not which vendor you use.
 
-**Norma** governs any Git repository, in any stack: TypeScript, Python, Java, Node, React, Supabase, Magento and more. It puts your governance rules into the model's context while it generates, through Cursor, Claude Code, Lovable, Replit and other MCP clients, then scores the repository across security, performance, scalability, manageability, maintainability and architecture. Permanent free tier.
+### Norma — any Git repository
+
+Any stack: TypeScript, Python, Java, Node, React, Supabase, Magento and more. It puts your governance rules into the model's context while it generates, through Cursor, Claude Code, Lovable, Replit and other MCP clients, then scores the repository across security, performance, scalability, manageability, maintainability and architecture. Permanent free tier.
 
 - Start: [portal.qualityclouds.ai](https://portal.qualityclouds.ai?utm_source=github&utm_medium=cta&utm_campaign=org-profile)
 - Connect it: [norma-mcp](https://github.com/qualityclouds/norma-mcp)
 
-**Quality Clouds platform governance** works inside the instance itself, on ServiceNow, Salesforce, Dynamics 365 and Adobe, where the configuration is the code: a full instance audit, real-time validation in the editor with LivecheckAI, and Quality Gates in CI to stop non-compliant changes reaching production.
+---
+
+### Quality Clouds platform governance — ServiceNow, Salesforce, Dynamics 365, Adobe
+
+Works inside the instance itself, where the configuration is the code: a full instance audit, real-time validation in the editor with LivecheckAI, and Quality Gates in CI to stop non-compliant changes reaching production.
 
 - Start: [id.qualityclouds.com/sign-up](https://id.qualityclouds.com/sign-up?utm_source=github&utm_medium=cta&utm_campaign=org-profile)
 - In your pipeline: [action-full-scan](https://github.com/qualityclouds/action-full-scan)

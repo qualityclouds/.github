@@ -7,7 +7,7 @@ your organization's rules before it reaches production.
 
 | You are | Product | Start |
 |---|---|---|
-| Working in a Git repository, with or without an AI editor | **Norma** | [portal.qualityclouds.ai](https://portal.qualityclouds.ai?utm_source=github&utm_medium=cta&utm_campaign=github) · [qualityclouds-mcp](https://github.com/qualityclouds/qualityclouds-mcp) |
+| Working in a Git repository, with or without an AI editor | **Norma** | [portal.qualityclouds.ai](https://portal.qualityclouds.ai?utm_source=github&utm_medium=cta&utm_campaign=github) · [norma-mcp](https://github.com/qualityclouds/norma-mcp) |
 | Running ServiceNow, Salesforce, Dynamics 365, or Adobe | **Quality Clouds platform governance** | [id.qualityclouds.com/sign-up](https://id.qualityclouds.com/sign-up) · [action-full-scan](https://github.com/qualityclouds/action-full-scan) |
 
 Free to start on both. No credit card.

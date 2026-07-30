@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <a href="https://qualityclouds.ai/sign-up?utm_source=GitHub_Listing&utm_medium=CTA&utm_campaign=signup_free">
+  <a href="https://portal.qualityclouds.ai?utm_source=GitHub_Listing&utm_medium=CTA&utm_campaign=signup_free">
     <img src="../livecheckai-button-light.svg" alt="LivecheckAI (via MCP) for Salesforce — Try it for Free!" />
   </a>
 </p>

@@ -30,4 +30,4 @@ Works inside the instance itself, where the configuration is the code: a full in
 - Documentation: [qualityclouds.com/documentation](https://qualityclouds.com/documentation/)
 - How AI-generated code scores across 400+ public projects: [state-of-ai-code-2026](https://github.com/qualityclouds/state-of-ai-code-2026)
 
-Quality Clouds. London, Barcelona, New York. Governing enterprise platforms since 2015.
+Quality Clouds. London, Barcelona, New York. Governing enterprise platforms since 2017.

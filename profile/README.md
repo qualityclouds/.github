@@ -15,7 +15,7 @@ Any stack: TypeScript, Python, Java, Node, React, Supabase, Magento and more. It
 
 ---
 
-### Quality Clouds platform governance — ServiceNow, Salesforce, Dynamics 365, Adobe
+### Quality Clouds platform governance — ServiceNow, Salesforce, Dynamics 365
 
 Works inside the instance itself, where the configuration is the code: a full instance audit, real-time validation in the editor with LivecheckAI, and Quality Gates in CI to stop non-compliant changes reaching production.
 

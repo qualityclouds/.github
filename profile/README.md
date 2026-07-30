@@ -1,112 +1,24 @@
-<p align="center">
-  <img src="./Github listing banner.png" alt="Quality Clouds Banner" width="100%">
-</p>
+![Quality Clouds](profile/banner_1.png)
 
-<p align="center">
-    <a href="https://docs.qualityclouds.com">
-    <img src="https://img.shields.io/badge/Docs-Quality%20Clouds-blue?style=flat&logo=readme" />
-  </a>
-  <a href="https://qualityclouds.com">
-    <img src="https://img.shields.io/badge/Website-qualityclouds.ai-0aa0ff?style=flat&logo=google-chrome" />
-  </a>
-  <a href="https://github.com/qualityclouds?tab=followers">
-    <img src="https://img.shields.io/github/followers/qualityclouds?style=social" alt="GitHub followers">
-  </a>
-  <a href="https://github.com/qualityclouds">
-    <img src="https://img.shields.io/github/stars/qualityclouds?color=yellow&style=flat" alt="GitHub stars">
-  </a>
-  <a href="https://github.com/qualityclouds/qualityclouds">
-    <img src="https://img.shields.io/github/forks/qualityclouds/action-full-scan?style=social" alt="GitHub forks">
-  </a>
-  <a href="https://qualityclouds.com">
-    <img src="https://img.shields.io/badge/repos-6-blue" alt="Repositories">
-  </a>
-    <img src="https://img.shields.io/badge/ISO%2FIEC%2027001-Certified-0073b1?style=flat&logo=security" />
-</p>
+**AI Code Governance.** Every change, whether a person or a model wrote it, checked against
+your organization's rules before it reaches production.
 
-<h3 align="center">Welcome to Quality Clouds on GitHub</h3>
+## Pick your path
 
-<p align="center">
-  <b>AI Code Governance for enterprise platforms — ensuring every change, whether written by humans or AI, is safe, compliant, and production-ready</b>
-</p>
+| You are | Product | Start |
+|---|---|---|
+| Working in a Git repository, with or without an AI editor | **Norma** | [portal.qualityclouds.ai](https://portal.qualityclouds.ai?utm_source=github&utm_medium=cta&utm_campaign=github) · [qualityclouds-mcp](https://github.com/qualityclouds/qualityclouds-mcp) |
+| Running ServiceNow, Salesforce, Dynamics 365, or Adobe | **Quality Clouds platform governance** | [id.qualityclouds.com/sign-up](https://id.qualityclouds.com/sign-up) · [action-full-scan](https://github.com/qualityclouds/action-full-scan) |
 
-<p align="center">
-  <a href="https://portal.qualityclouds.ai?utm_source=GitHub_Listing&utm_medium=CTA&utm_campaign=signup_free">
-    <img src="../livecheckai-button-light.svg" alt="LivecheckAI (via MCP) for Salesforce — Try it for Free!" />
-  </a>
-</p>
+Free to start on both. No credit card.
 
-<p align="center">
-  ServiceNow · Salesforce · Microsoft Dynamics 365 · Adobe · Cursor · Lovable · Replit · Claude Code
-</p>
+## Where to go next
 
----
+| | |
+|---|---|
+| What we do, and the full index of our repositories | [qualityclouds/qualityclouds](https://github.com/qualityclouds/qualityclouds) |
+| Questions, feature requests, bugs, roadmap | [community](https://github.com/qualityclouds/community) |
+| Documentation | [qualityclouds.com/documentation](https://qualityclouds.com/documentation/) |
+| How AI-generated code scores across 400+ public projects | [state-of-ai-code-2026](https://github.com/qualityclouds/state-of-ai-code-2026) |
 
-### 🚀 Quick Start
-
-| Task | Description |
-|------|-------------|
-| **MCP server for any Git repository** | [qualityclouds-mcp](https://github.com/qualityclouds/qualityclouds-mcp) |
-| **LivecheckAI (via MCP) for Salesforce** | [livecheckai-mcp-salesforce](https://github.com/qualityclouds/livecheckai-mcp-salesforce) |
-| **LivecheckAI for ServiceNow** | [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=QualityClouds.qualitycloudsforservicenow) |
-| **Full CI scan for Salesforce & ServiceNow (Build Check Action)** | [action-full-scan](https://github.com/qualityclouds/action-full-scan) |
-| **Integrations & SDKs** | [qualityclouds](https://github.com/qualityclouds/qualityclouds) |
-| **Docs & Support** | [qualityclouds.com](https://qualityclouds.com) · help@qualityclouds.com |
-
----
-
-### 💡 What We Do
-
-Quality Clouds is the AI Code Governance layer for enterprise platforms. We turn governance, security, and quality requirements into machine-readable rules — applied in real time, in the IDE, the CI pipeline, and across full instance audits
-
-- ⚡ Real-time guardrails in the IDE — LivecheckAI validates code as senior engineers and architects (or AI agents) write it.
-- 🛡 Quality Gates in CI — block non-compliant or risky changes from reaching production.
-- 🧩 Full Scan instance audits — complete visibility into technical debt, security, and configuration risk across every governed instance.
-- 🤖 AI Rule Builder — turn enterprise standards into enforceable rules in plain language — without writing code.
-
-We empower developers, architects, and DevOps teams to ship cleaner, safer, and more maintainable code across multiple SaaS platforms.
-
-<div align="center">
-<a href="https://youtu.be/nyhEw1g90e0">
-  <img src="./livecheckai-demo-card.svg" width="520" alt="LivecheckAI Demo Video"/>
-</a>
-</div>
-
----
-
-### 💬 Community & Help
-
-We’re open to collaboration and feedback from developers and partners.
-
-- 🗣️ Start a [Discussion](https://github.com/orgs/qualityclouds/discussions)
-- 🐞 Report issues in any repository
-- 🔐 Read our [Security Policy](https://github.com/qualityclouds/.github/blob/main/SECURITY.md)
-- 🤝 View our [Code of Conduct](https://github.com/qualityclouds/.github/blob/main/CODE_OF_CONDUCT.md)
-- 📖 Learn how to [Contribute](https://github.com/qualityclouds/.github/blob/main/CONTRIBUTING.md)
-
-
----
-
-### ✨ About Quality Clouds
-
-Quality Clouds is the governance layer for enterprise SaaS platforms — helping organizations build, deploy, and maintain applications with confidence.
-
-We empower global teams to:
--  **Gain full visibility** into the quality, compliance, and technical debt of their cloud platforms.  
--  **Automate governance** through integrations with GitHub, ServiceNow, Salesforce, Microsoft Dynamics 365, Cursor, Lovable, Replit, and Claude Code.  
--  **Improve productivity and reliability** by catching issues before they reach production.  
-
-With a focus on **scalability**, **security**, and **continuous improvement**, Quality Clouds supports developers, architects, and enterprise leaders in aligning code quality with business outcomes.
-
-> “We make quality visible, measurable, and actionable — so every release is faster, safer, and smarter.”
-
----
-🤝 [Meet our contributors](https://github.com/qualityclouds/.github/blob/main/contributors.md)
-
-
-<p align="center">
-  <sub>© Quality Clouds — Built with 💚 for developers and enterprises worldwide.</sub><br/>
-  <a href="https://qualityclouds.ai">🌐 Website</a> • 
-  <a href="https://www.linkedin.com/company/qualityclouds/">LinkedIn</a> • 
-  <a href="https://twitter.com/qualityclouds">X</a>
-</p>
+Quality Clouds — London, Barcelona, New York — governing enterprise platforms since 2015.

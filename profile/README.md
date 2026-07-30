@@ -46,8 +46,9 @@
 
 | Task | Description |
 |------|-------------|
+| **MCP server for any Git repository** | [qualityclouds-mcp](https://github.com/qualityclouds/qualityclouds-mcp) |
 | **LivecheckAI (via MCP) for Salesforce** | [livecheckai-mcp-salesforce](https://github.com/qualityclouds/livecheckai-mcp-salesforce) |
-| **LivecheckAI (via MCP) for ServiceNow** | 🚀 _Coming soon - stay tuned!_ |
+| **LivecheckAI for ServiceNow** | [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=QualityClouds.qualitycloudsforservicenow) |
 | **Full CI scan for Salesforce & ServiceNow (Build Check Action)** | [action-full-scan](https://github.com/qualityclouds/action-full-scan) |
 | **Integrations & SDKs** | [qualityclouds](https://github.com/qualityclouds/qualityclouds) |
 | **Docs & Support** | [qualityclouds.com](https://qualityclouds.com) · help@qualityclouds.com |

@@ -20,7 +20,7 @@ Any stack: TypeScript, Python, Java, Node, React, Supabase, Magento and more. It
 Works inside the instance itself, where the configuration is the code: a full instance audit, real-time validation in the editor with LivecheckAI, and Quality Gates in CI to stop non-compliant changes reaching production.
 
 - Start: [id.qualityclouds.com/sign-up](https://id.qualityclouds.com/sign-up?utm_source=github&utm_medium=cta&utm_campaign=org-profile)
-- In your pipeline: [action-full-scan](https://github.com/qualityclouds/action-full-scan)
+- In your pipeline: [action-full-scan](https://github.com/qualityclouds/action-full-scan) · [platform-mcp](https://github.com/qualityclouds/platform-mcp)
 
 ## Where to go next
 
